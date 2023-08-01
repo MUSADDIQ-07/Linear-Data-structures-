@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="image"/>
+	<classpathentry kind="src" path="VOICE COMMAND"/>
+	<classpathentry kind="lib" path="C:/Users/ACER/Downloads/jaco-mp3-player-0.9.3/jaco-mp3-player-0.9.3.jar"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/array of specified size is created.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/Deletion is not possible.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/displaying array contents.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/displaying stack contents.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/Display is Not Possible.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/display not possible stack is empty.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/Element +elem+ Inserted at Rear Success Full.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/Element Deleted.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/element got inserted at Specified position.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/Pop Not Possible! stack is empty.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/element got Deleted at Specified position.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/element got poped.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/element got pushed into the stack.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/Element Inserted at Front Success Fully.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/Inserted Successfully.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/Insertion is Not Possible!.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/queue of  specified size created.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/Push Not Possible!  stack is full.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/stack of specified size is created.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/Welcome to array data structure.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/welcome to circular queue data structure.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/queuedata.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/welcome to Singly linked list data structure.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/welcome to doubly linked list data structure.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/Welcome to stack data structure.mp3"/>
+	<classpathentry kind="lib" path="VOICE COMMAND/whpage.mp3"/>
+	<classpathentry kind="lib" path="image/ARR.png"/>
+	<classpathentry kind="lib" path="image/arrdata.png"/>
+	<classpathentry kind="lib" path="image/cq.png"/>
+	<classpathentry kind="lib" path="image/CQU.png"/>
+	<classpathentry kind="lib" path="image/cqueueimages.jpeg"/>
+	<classpathentry kind="lib" path="image/creatarray.png"/>
+	<classpathentry kind="lib" path="image/cstk.png"/>
+	<classpathentry kind="lib" path="image/delete.png"/>
+	<classpathentry kind="lib" path="image/deletefront.png"/>
+	<classpathentry kind="lib" path="image/deleteq.png"/>
+	<classpathentry kind="lib" path="image/deleterear.png"/>
+	<classpathentry kind="lib" path="image/display.png"/>
+	<classpathentry kind="lib" path="image/displayll.png"/>
+	<classpathentry kind="lib" path="image/displayq.png"/>
+	<classpathentry kind="lib" path="image/disps.png"/>
+	<classpathentry kind="lib" path="image/dll.jpg"/>
+	<classpathentry kind="lib" path="image/DOUB.png"/>
+	<classpathentry kind="lib" path="image/insertfront.png"/>
+	<classpathentry kind="lib" path="image/queue1.jpg"/>
+	<classpathentry kind="lib" path="image/dr.png"/>
+	<classpathentry kind="lib" path="image/ds.png"/>
+	<classpathentry kind="lib" path="image/insertrear.png"/>
+	<classpathentry kind="lib" path="image/HOME.png"/>
+	<classpathentry kind="lib" path="image/insertq.png"/>
+	<classpathentry kind="lib" path="image/insert.png"/>
+	<classpathentry kind="lib" path="image/lable.png"/>
+	<classpathentry kind="lib" path="image/ll.png"/>
+	<classpathentry kind="lib" path="image/pop.png"/>
+	<classpathentry kind="lib" path="image/push.png"/>
+	<classpathentry kind="lib" path="image/QU.png"/>
+	<classpathentry kind="lib" path="image/SING.png"/>
+	<classpathentry kind="lib" path="image/singly-linked-list.png"/>
+	<classpathentry kind="lib" path="image/STA.png"/>
+	<classpathentry kind="lib" path="image/stackimage1.png"/>
+	<classpathentry kind="lib" path="image/stc.png"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
